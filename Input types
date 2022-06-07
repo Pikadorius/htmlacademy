@@ -1,1 +1,11 @@
 <input type="text(default)/password/submit/checkbox/radio/file(enctype="multipart/form-data" in form)/hidden/reset/button/image/date/time/number/search/range"
+
+attributes:
+  name
+  id
+  value
+  required
+  checked(checkbox/radio)
+ 
+<label for="id input">Подпись</label>
+
