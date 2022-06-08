@@ -20,3 +20,13 @@ attributes:
 </datalist>
 
 <output name="count"></output> --> in form attribute oninput="count.value=input_name.value" 
+
+<fieldset>
+<legend>Заголовок</legend>
+  <input type="text">
+  <input type="text">
+  <input type="text">
+</fieldset>
+<fieldset>
+  <textarea></textarea>
+</fieldset>
