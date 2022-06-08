@@ -1,4 +1,4 @@
-<input type="text(default)/password/submit/checkbox/radio/file(enctype="multipart/form-data" in form)/hidden/reset/button/image/date/time/number/search/range"
+<input type="text(default)/password/submit/checkbox/radio/file(enctype="multipart/form-data" in form)/hidden/reset/button/image/date/time/number/search/range/week/month"
 
 attributes:
   name
@@ -6,6 +6,17 @@ attributes:
   value
   required
   checked(checkbox/radio)
+  min/max (for range, number)
+  step (for range, number)
  
 <label for="id input">Подпись</label>
 
+
+<input type="text" list="browsers" name="browser">
+<datalist id="browsers">
+  <option value="Firefox"></option>
+  <option value="Chrome"></option>
+  <option value="Safari"></option>
+</datalist>
+
+<output name="count"></output> --> in form attribute oninput="count.value=input_name.value" 
