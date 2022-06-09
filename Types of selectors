@@ -1,0 +1,6 @@
+context(nested) --> ul li / .class .class
+neighboring --> .class+.class
+mixed --> .class .class + .class
+child --> class>class>class / div>p>span
+
+pseudo class --> selector:first-child/last-child/nth-child(n/Nn)
