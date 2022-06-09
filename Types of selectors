@@ -4,3 +4,15 @@ mixed --> .class .class + .class
 child --> class>class>class / div>p>span
 
 pseudo class --> selector:first-child/last-child/nth-child(n/Nn)
+ 
+  :link
+  :visited
+  :hover
+  :active
+  
+  :focus
+  
+  selector[attribute]
+  
+  teg id="name" --> #name { }
+      
