@@ -1,0 +1,8 @@
+background: [bc] [bi] [br] [bp] [ba];
+/* Обозначения:
+[bc] — background-color
+[bi] — background-image
+[br] — background-repeat
+[bp] — background-position
+[ba] — background-attachment
+*/
