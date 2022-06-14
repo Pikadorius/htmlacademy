@@ -1,0 +1,4 @@
+:not --> !selector
+:nth-last-child --> reversed :nth-child
+:first-of-type
+:last-of-type
