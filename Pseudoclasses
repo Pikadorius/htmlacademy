@@ -2,3 +2,5 @@
 :nth-last-child --> reversed :nth-child
 :first-of-type
 :last-of-type
+:nth-of-type
+:nth-last-of-type
