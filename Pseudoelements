@@ -13,3 +13,7 @@ heart::before { content: "Черви"; }
 
 
 ::after 
+
+p::first-line
+
+p::first-letter
